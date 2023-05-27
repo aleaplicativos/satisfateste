@@ -1,4 +1,4 @@
-const games = [
+ const games = [
     {
       
       link: "https://aleaplicativos.github.io/aranhacolorida/"
@@ -6,6 +6,26 @@ const games = [
     {
       
       link: "https://aleaplicativos.github.io/cortinaelastica/"
+    },
+
+    {
+      
+      link: "https://aleaplicativos.github.io/guitarraonline/"
+    },
+
+    {
+      
+      link: "https://aleaplicativos.github.io/pianinhohtml5/"
+    },
+
+    {
+      
+      link: "https://aleaplicativos.github.io/lapis3d/"
+    },
+
+    {
+      
+      link: "https://aleaplicativos.github.io/anelcolorido/"
     },
     {
       
