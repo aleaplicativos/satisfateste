@@ -1,21 +1,17 @@
- const games = [
-    {
-      
+const games = [
+    {      
       link: "https://aleaplicativos.github.io/aranhacolorida/"
     },
-    {
-      
+    {      
       link: "https://aleaplicativos.github.io/cortinaelastica/"
     },
 
-    {
-      
+    {      
       link: "https://aleaplicativos.github.io/guitarraonline/"
     },
 
     {
-      
-      link: "https://aleaplicativos.github.io/pianinhohtml5/"
+       link: "https://aleaplicativos.github.io/pianinhohtml5/"
     },
 
     {
@@ -26,6 +22,14 @@
     {
       
       link: "https://aleaplicativos.github.io/anelcolorido/"
+    },
+    {
+      
+      link: "https://aleaplicativos.github.io/coisaelastica2/"
+    },
+    {
+      
+      link: "https://aleaplicativos.github.io/confeti/"
     },
     {
       
