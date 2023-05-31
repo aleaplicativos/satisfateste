@@ -28,7 +28,28 @@ const games = [
       link: "https://aleaplicativos.github.io/coisaelastica2/"
     },
     {
-      
+     
+      link: "https://aleaplicativos.github.io/baralhoestrategia/"
+    },
+
+    {
+     
+      link: "https://aleaplicativos.github.io/brickgamebloco/"
+    },
+    {
+     
+      link: "https://aleaplicativos.github.io/fantasmaemoji/"
+    },
+    {
+     
+      link: "https://aleaplicativos.github.io/brickgameretro/"
+    },
+    {
+     
+      link: "https://aleaplicativos.github.io/sorte/"
+    },
+    {
+     
       link: "https://aleaplicativos.github.io/confeti/"
     },
     {
