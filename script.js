@@ -53,6 +53,10 @@ const games = [
       link: "https://aleaplicativos.github.io/confeti/"
     },
     {
+     
+      link: "https://aleaplicativos.github.io/camarao/"
+    },
+    {
       
       link: "https://aleaplicativos.github.io/bolamagnetica/"
     },
