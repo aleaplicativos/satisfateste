@@ -59,59 +59,59 @@ const games = [
     {
       
       link: "https://aleaplicativos.github.io/labirintourso/"
-    }
+    },
     {
       
       link: "https://aleaplicativos.github.io/bolacolor/"
-    }
+    },
     {
       
       link: "https://aleaplicativos.github.io/destroi/"
-    }
+    },
     {
       
       link: "https://aleaplicativos.github.io/unicornsome/"
-    }
+    },
     {
       
       link: "https://aleaplicativos.github.io/quebracabeca/"
-    }
+    },
     {
       
       link: "https://aleaplicativos.github.io/elasticmesh/"
-    }
+    },
     {
       
       link: "https://aleaplicativos.github.io/planeta/"
-    }
+    },
     {
       
       link: "https://aleaplicativos.github.io/bonecos/"
-    }
+    },
     {
       
       link: "https://aleaplicativos.github.io/bolapula/"
-    }
+    },
     {
       
       link: "https://aleaplicativos.github.io/caveira/"
-    }
+    },
     {
       
       link: "https://aleaplicativos.github.io/fogos/"
-    }
+    },
     {
       
       link: "https://aleaplicativos.github.io/melecaelastic/"
-    }
+    },
     {
       
       link: "https://aleaplicativos.github.io/impossivel/"
-    }
+    },
     {
       
       link: "https://aleaplicativos.github.io/cubomagico/"
-    }
+    },
     {
       
       link: "https://aleaplicativos.github.io/bolamagnetica/"
