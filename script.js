@@ -112,6 +112,76 @@ const games = [
       
       link: "https://aleaplicativos.github.io/cubomagico/"
     },
+    ,
+    {
+      
+      link: "https://aleaplicativos.github.io/portal3d/"
+    },
+    ,
+    {
+      
+      link: "https://aleaplicativos.github.io/skateflutuante/"
+    },
+    ,
+    {
+      
+      link: "https://aleaplicativos.github.io/planetas/"
+    },
+    ,
+    {
+      
+      link: "https://aleaplicativos.github.io/hamburgbox/"
+    },
+    ,
+    {
+      
+      link: "https://aleaplicativos.github.io/monsterelastic/"
+    },
+     ,
+    {
+      
+      link: "https://aleaplicativos.github.io/espirallotus/"
+    },
+    ,
+    {
+      
+      link: "https://aleaplicativos.github.io/leite/"
+    },
+    ,
+    {
+      
+      link: "https://aleaplicativos.github.io/sliminhas/"
+    },
+    ,
+    {
+      
+      link: "https://aleaplicativos.github.io/coisa-galat/"
+    },
+    ,
+    {
+      
+      link: "https://aleaplicativos.github.io/aguacontrole/"
+    },
+    ,
+    {
+      
+      link: "https://aleaplicativos.github.io/passarinhos/"
+    },
+    ,
+    {
+      
+      link: "https://aleaplicativos.github.io/elasticcoisas/"
+    },
+    ,
+    {
+      
+      link: "https://aleaplicativos.github.io/luzesbol/"
+    },
+    ,
+    {
+      
+      link: "https://aleaplicativos.github.io/olhos/"
+    },
     {
       
       link: "https://aleaplicativos.github.io/bolamagnetica/"
