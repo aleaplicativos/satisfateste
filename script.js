@@ -187,6 +187,11 @@ const games = [
       
       link: "https://aleaplicativos.github.io/testeeye/"
     },
+    ,
+    {
+      
+      link: "https://aleaplicativos.github.io/piano3d/"
+    },
     {
       
       link: "https://aleaplicativos.github.io/bolamagnetica/"
