@@ -44,16 +44,16 @@ h1 {
 #game-container {
   position: relative;
   width: 100%;
-  height: 100vh; /* Alterado para ocupar toda a altura da tela */
+  height: 100vh;
   margin-bottom: 20px;
 }
 
 #game-wrapper {
   position: absolute;
-  top: 0;
+  top: 50px; /* Ajuste a posição superior para 50px */
   left: 0;
   width: 100%;
-  height: 90%; /* Alterado para ocupar toda a altura da tela */
+  height: calc(100% - 50px); /* Subtraí a altura dos botões de navegação */
   background-color: #ffffff;
 }
 
@@ -62,9 +62,12 @@ h1 {
 }
 
 #game-navigation {
-  position: relative;
+  position: absolute;
   z-index: 1;
-  margin-bottom: 20px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  top: 0; /* Altere a posição superior para 0 */
 }
 
 .navigation-button {
@@ -75,8 +78,6 @@ h1 {
   border-radius: 10px;
   cursor: pointer;
   margin: 0 10px;
-  position: relative;
-  z-index: 2;
 }
 
 #footer {
