@@ -197,6 +197,11 @@ const games = [
       
       link: "https://aleaplicativos.github.io/batburgueratualizada/"
     },
+    ,
+    {
+      
+      link: "https://aleaplicativos.github.io/guitarra-interativa/"
+    },
     {
       
       link: "https://aleaplicativos.github.io/bolamagnetica/"
