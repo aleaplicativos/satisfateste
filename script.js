@@ -192,6 +192,11 @@ const games = [
       
       link: "https://aleaplicativos.github.io/piano3d/"
     },
+    ,
+    {
+      
+      link: "https://aleaplicativos.github.io/batburgueratualizada/"
+    },
     {
       
       link: "https://aleaplicativos.github.io/bolamagnetica/"
