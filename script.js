@@ -207,6 +207,11 @@ const games = [
       
       link: "https://aleaplicativos.github.io/digitalvanita/"
     },
+        ,
+    {
+      
+      link: "https://aleaplicativos.github.io/lego/"
+    },
     {
       
       link: "https://aleaplicativos.github.io/bolamagnetica/"
