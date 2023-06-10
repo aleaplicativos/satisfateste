@@ -202,6 +202,11 @@ const games = [
       
       link: "https://aleaplicativos.github.io/guitarra-interativa/"
     },
+    ,
+    {
+      
+      link: "https://aleaplicativos.github.io/digitalvanita/"
+    },
     {
       
       link: "https://aleaplicativos.github.io/bolamagnetica/"
