@@ -222,6 +222,11 @@ const games = [
       
       link: "https://aleaplicativos.github.io/geometriesadiscoball/"
     },
+    ,
+    {
+      
+      link: "https://aleaplicativos.github.io/multiimputmaze/"
+    },
     {
       
       link: "https://aleaplicativos.github.io/bolamagnetica/"
