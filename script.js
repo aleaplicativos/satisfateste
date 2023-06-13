@@ -227,6 +227,21 @@ const games = [
       
       link: "https://aleaplicativos.github.io/multiimputmaze/"
     },
+    ,
+    {
+      
+      link: "https://aleaplicativos.github.io/codevemberpillow/"
+    },
+    ,
+    {
+      
+      link: "https://aleaplicativos.github.io/codevemberrocket/"
+    },
+    ,
+    {
+      
+      link: "https://aleaplicativos.github.io/codevembercarrot/"
+    },
     {
       
       link: "https://aleaplicativos.github.io/bolamagnetica/"
