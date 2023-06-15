@@ -242,6 +242,11 @@ const games = [
       
       link: "https://aleaplicativos.github.io/codevembercarrot/"
     },
+    ,
+    {
+      
+      link: "https://aleaplicativos.github.io/sweetmemory/"
+    },
     {
       
       link: "https://aleaplicativos.github.io/bolamagnetica/"
