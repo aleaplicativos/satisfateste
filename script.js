@@ -1,61 +1,20 @@
 const games = [
-    {      
-      link: "https://aleaplicativos.github.io/aranhacolorida/"
-    },
-    {      
-      link: "https://aleaplicativos.github.io/cortinaelastica/"
-    },
-
-    {      
-      link: "https://aleaplicativos.github.io/guitarraonline/"
-    },
-
-    {
-       link: "https://aleaplicativos.github.io/pianinhohtml5/"
-    },
-
-    {
-      
-      link: "https://aleaplicativos.github.io/lapis3d/"
-    },
-
-    {      
-      link: "https://aleaplicativos.github.io/anelcolorido/"
-    },
-    {      
-      link: "https://aleaplicativos.github.io/coisaelastica2/"
-    },
-    {     
-      link: "https://aleaplicativos.github.io/baralhoestrategia/"
-    },
-
-    {     
-      link: "https://aleaplicativos.github.io/brickgamebloco/"
-    },
-    {
-     
-      link: "https://aleaplicativos.github.io/fantasmaemoji/"
-    },
-    {
-     
-      link: "https://aleaplicativos.github.io/brickgameretro/"
-    },
-    {
-     
-      link: "https://aleaplicativos.github.io/sorte/"
-    },
-    {     
-      link: "https://aleaplicativos.github.io/confeti/"
-    },
-    {     
-      link: "https://aleaplicativos.github.io/camarao/"
-    },
-    {      
-      link: "https://aleaplicativos.github.io/labirintourso/"
-    },
-    {      
-      link: "https://aleaplicativos.github.io/bolacolor/"
-    },
+    {link: "https://aleaplicativos.github.io/aranhacolorida/"},
+    {link: "https://aleaplicativos.github.io/cortinaelastica/"},
+    {link: "https://aleaplicativos.github.io/guitarraonline/"},
+    {link: "https://aleaplicativos.github.io/pianinhohtml5/"},
+    {link: "https://aleaplicativos.github.io/lapis3d/"},
+    {link: "https://aleaplicativos.github.io/anelcolorido/"},
+    {link: "https://aleaplicativos.github.io/coisaelastica2/"},
+    {link: "https://aleaplicativos.github.io/baralhoestrategia/"},
+    {link: "https://aleaplicativos.github.io/brickgamebloco/"},
+    {link: "https://aleaplicativos.github.io/fantasmaemoji/"},
+    {link: "https://aleaplicativos.github.io/brickgameretro/"},
+    {link: "https://aleaplicativos.github.io/sorte/"},
+    {link: "https://aleaplicativos.github.io/confeti/"},
+    {link: "https://aleaplicativos.github.io/camarao/"},
+    {link: "https://aleaplicativos.github.io/labirintourso/"},
+    {link: "https://aleaplicativos.github.io/bolacolor/"},
     {      
       link: "https://aleaplicativos.github.io/destroi/"
     },
@@ -208,13 +167,21 @@ const games = [
     {      
       link: "https://aleaplicativos.github.io/elastictoggle/"
     },
-    ,
+    
     {      
       link: "https://aleaplicativos.github.io/xray/"
     },
     ,
     {      
       link: "https://aleaplicativos.github.io/optimusprime/"
+    },
+    ,
+    {      
+      link: "https://aleaplicativos.github.io/radiohopping/"
+    },
+    ,
+    {      
+      link: "https://aleaplicativos.github.io/skilletswitch/"
     },
     {      
       link: "https://aleaplicativos.github.io/bolamagnetica/"
