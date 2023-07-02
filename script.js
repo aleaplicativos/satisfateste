@@ -183,6 +183,14 @@ const games = [
     {      
       link: "https://aleaplicativos.github.io/skilletswitch/"
     },
+    ,
+    {      
+      link: "https://aleaplicativos.github.io/Banksy-valentines/"
+    },
+    ,
+    {      
+      link: "https://aleaplicativos.github.io/fish/"
+    },
     {      
       link: "https://aleaplicativos.github.io/bolamagnetica/"
     },
