@@ -191,6 +191,14 @@ const games = [
     {      
       link: "https://aleaplicativos.github.io/fish/"
     },
+    ,
+    {      
+      link: "https://aleaplicativos.github.io/cryon-picker/"
+    },
+    ,
+    {      
+      link: "https://aleaplicativos.github.io/Magic-Wand-Reveal/"
+    },
     {      
       link: "https://aleaplicativos.github.io/bolamagnetica/"
     },
