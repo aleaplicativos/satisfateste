@@ -199,6 +199,13 @@ const games = [
     {      
       link: "https://aleaplicativos.github.io/Magic-Wand-Reveal/"
     },
+    ,
+    {      
+      link: "https://aleaplicativos.github.io/interactive-platypus/"
+    },
+    {      
+      link: "https://aleaplicativos.github.io/interactive-puppy/"
+    },
     {      
       link: "https://aleaplicativos.github.io/bolamagnetica/"
     },
