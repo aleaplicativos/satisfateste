@@ -207,6 +207,12 @@ const games = [
       link: "https://aleaplicativos.github.io/interactive-puppy/"
     },
     {      
+      link: "https://aleaplicativos.github.io/-billowing-scintillation/"
+    },
+    {      
+      link: "https://aleaplicativos.github.io/pop-sugar/"
+    },
+    {      
       link: "https://aleaplicativos.github.io/bolamagnetica/"
     },
     // Adicione quantos jogos desejar nesta lista
