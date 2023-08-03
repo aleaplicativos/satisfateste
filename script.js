@@ -219,6 +219,12 @@ const games = [
       link: "https://aleaplicativos.github.io/rinegan/"
     },
     {      
+      link: "https://aleaplicativos.github.io/animals-insects/"
+    },
+    {      
+      link: "https://aleaplicativos.github.io/sharingan/"
+    },
+    {      
       link: "https://aleaplicativos.github.io/bolamagnetica/"
     },
     // Adicione quantos jogos desejar nesta lista
