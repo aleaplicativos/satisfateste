@@ -230,6 +230,7 @@ const games = [
     {link: "https://aleaplicativos.github.io/memphis-beauty/"},
     {link: "https://aleaplicativos.github.io/sneezethedragon/"},
     {link: "https://aleaplicativos.github.io/kamehameha/"},
+     {link: "https://aleaplicativos.github.io/cat-vs-bol/"},
     {      
       link: "https://aleaplicativos.github.io/bolamagnetica/"
     },
