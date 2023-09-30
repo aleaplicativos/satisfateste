@@ -233,6 +233,7 @@ const games = [
      {link: "https://aleaplicativos.github.io/cat-vs-bol/"},
     {link: "https://aleaplicativos.github.io/chillthelion/"},
     {link: "https://aleaplicativos.github.io/CodePen-Home-Synth-From-Hell/"},
+    {link: "https://aleaplicativos.github.io/dado/"},
     {      
       link: "https://aleaplicativos.github.io/bolamagnetica/"
     },
