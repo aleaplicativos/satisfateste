@@ -15,7 +15,7 @@ const games = [
     {link: "https://aleaplicativos.github.io/camarao/"},
     {link: "https://aleaplicativos.github.io/labirintourso/"},
     {link: "https://aleaplicativos.github.io/bolacolor/"},
-    {      
+    { 
       link: "https://aleaplicativos.github.io/destroi/"
     },
     {      
@@ -232,6 +232,7 @@ const games = [
     {link: "https://aleaplicativos.github.io/kamehameha/"},
      {link: "https://aleaplicativos.github.io/cat-vs-bol/"},
     {link: "https://aleaplicativos.github.io/chillthelion/"},
+    {link: "https://aleaplicativos.github.io/CodePen-Home-Synth-From-Hell/"},
     {      
       link: "https://aleaplicativos.github.io/bolamagnetica/"
     },
