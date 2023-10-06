@@ -237,6 +237,7 @@ const games = [
     {link: "https://aleaplicativos.github.io/Physics-Playground/"},
     {link: "https://aleaplicativos.github.io/Noisy-ghost/"},
     {link: "https://aleaplicativos.github.io/batcat/"},
+    {link: "https://aleaplicativos.github.io/Skull-Toggle/"},
     {      
       link: "https://aleaplicativos.github.io/bolamagnetica/"
     },
