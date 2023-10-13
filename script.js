@@ -240,6 +240,7 @@ const games = [
     {link: "https://aleaplicativos.github.io/Skull-Toggle/"},
     {link: "https://aleaplicativos.github.io/dado3d/"},
     {link: "https://aleaplicativos.github.io/catbalancando/"},
+    {link: "https://aleaplicativos.github.io/expodingbombs/"},
     {      
       link: "https://aleaplicativos.github.io/bolamagnetica/"
     },
