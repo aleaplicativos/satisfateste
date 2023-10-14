@@ -241,6 +241,7 @@ const games = [
     {link: "https://aleaplicativos.github.io/dado3d/"},
     {link: "https://aleaplicativos.github.io/catbalancando/"},
     {link: "https://aleaplicativos.github.io/expodingbombs/"},
+    {link: "https://aleaplicativos.github.io/Pixel-Paint/"},
     {      
       link: "https://aleaplicativos.github.io/bolamagnetica/"
     },
