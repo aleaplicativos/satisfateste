@@ -243,9 +243,8 @@ const games = [
     {link: "https://aleaplicativos.github.io/expodingbombs/"},
     {link: "https://aleaplicativos.github.io/Pixel-Paint/"},
     {link: "https://aleaplicativos.github.io/dinorex/"},
-    {      
-      link: "https://aleaplicativos.github.io/bolamagnetica/"
-    },
+     {link: "https://aleaplicativos.github.io/circ-circ/"},
+     {link: "https://aleaplicativos.github.io/bolamagnetica/"},
     // Adicione quantos jogos desejar nesta lista
   ];
   
