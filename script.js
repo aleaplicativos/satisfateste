@@ -256,6 +256,7 @@ const games = [
     {link: "https://aleaplicativos.github.io/gnat-attack/"},
     {link: "https://aleaplicativos.github.io/zombieemaye/"},
     {link: "https://aleaplicativos.github.io/pedra-papel-tesoura/"},
+    {link: "https://aleaplicativos.github.io/encontre-o-emoji/"},
      {link: "https://aleaplicativos.github.io/bolamagnetica/"},
     // Adicione quantos jogos desejar nesta lista
   ];
