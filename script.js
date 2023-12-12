@@ -269,6 +269,7 @@ const games = [
     {link: "https://aleaplicativos.github.io/frog-calculater/"},
     {link: "https://aleaplicativos.github.io/30.000-particles/"},
     {link: "https://aleaplicativos.github.io/Creepy-Crawly/"},
+    {link: "https://aleaplicativos.github.io/the-line-follows/"},
      {link: "https://aleaplicativos.github.io/bolamagnetica/"},
     // Adicione quantos jogos desejar nesta lista
   ];
