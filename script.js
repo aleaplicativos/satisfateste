@@ -272,6 +272,7 @@ const games = [
     {link: "https://aleaplicativos.github.io/the-line-follows/"},
     {link: "https://aleaplicativos.github.io/help-papai-noel/"},
     {link: "https://aleaplicativos.github.io/Argolas-magicas/"},
+    {link: "https://aleaplicativos.github.io/-satisfying-curly/"},
      {link: "https://aleaplicativos.github.io/bolamagnetica/"},
     // Adicione quantos jogos desejar nesta lista
   ];
