@@ -16,12 +16,8 @@ const games = [
     {link: "https://aleaplicativos.github.io/labirintourso/"},
     {link: "https://aleaplicativos.github.io/pedra-papel-tesoura/"},
     {link: "https://aleaplicativos.github.io/bolacolor/"},
-    { 
-      link: "https://aleaplicativos.github.io/destroi/"
-    },
-    {      
-      link: "https://aleaplicativos.github.io/unicornsome/"
-    },
+    {link: "https://aleaplicativos.github.io/destroi/"},
+    {link: "https://aleaplicativos.github.io/unicornsome/"},
     {      
       link: "https://aleaplicativos.github.io/quebracabeca/"
     },
