@@ -18,9 +18,7 @@ const games = [
     {link: "https://aleaplicativos.github.io/bolacolor/"},
     {link: "https://aleaplicativos.github.io/destroi/"},
     {link: "https://aleaplicativos.github.io/unicornsome/"},
-    {      
-      link: "https://aleaplicativos.github.io/quebracabeca/"
-    },
+    {link: "https://aleaplicativos.github.io/quebracabeca/"},
     {      
       link: "https://aleaplicativos.github.io/elasticmesh/"
     },
@@ -274,6 +272,7 @@ const games = [
     {link: "https://aleaplicativos.github.io/bass-guitar-color/"},
     {link: "https://aleaplicativos.github.io/emoji-spinner/"},
     {link: "https://aleaplicativos.github.io/foguete-voadno/"},
+    {link: "https://aleaplicativos.github.io/sapinho-falante/"},
      {link: "https://aleaplicativos.github.io/bolamagnetica/"},
     // Adicione quantos jogos desejar nesta lista
   ];
