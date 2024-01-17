@@ -19,81 +19,27 @@ const games = [
     {link: "https://aleaplicativos.github.io/destroi/"},
     {link: "https://aleaplicativos.github.io/unicornsome/"},
     {link: "https://aleaplicativos.github.io/quebracabeca/"},
-    {      
-      link: "https://aleaplicativos.github.io/elasticmesh/"
-    },
-    {      
-      link: "https://aleaplicativos.github.io/planeta/"
-    },
-    {      
-      link: "https://aleaplicativos.github.io/bonecos/"
-    },
-    {      
-      link: "https://aleaplicativos.github.io/bolapula/"
-    },
-    {      
-      link: "https://aleaplicativos.github.io/caveira/"
-    },
-    {      
-      link: "https://aleaplicativos.github.io/fogos/"
-    },
-    {      
-      link: "https://aleaplicativos.github.io/melecaelastic/"
-    },
-    {      
-      link: "https://aleaplicativos.github.io/impossivel/"
-    },
-    {      
-      link: "https://aleaplicativos.github.io/cubomagico/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/portal3d/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/skateflutuante/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/planetas/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/hamburgbox/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/monsterelastic/"
-    },
-     ,
-    {      
-      link: "https://aleaplicativos.github.io/espirallotus/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/leite/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/sliminhas/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/coisa-galat/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/aguacontrole/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/passarinhos/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/elasticcoisas/"
-    },
+    {link: "https://aleaplicativos.github.io/elasticmesh/"},
+    {link: "https://aleaplicativos.github.io/planeta/"},
+    {link: "https://aleaplicativos.github.io/bonecos/"},
+    {link: "https://aleaplicativos.github.io/bolapula/"},
+    {link: "https://aleaplicativos.github.io/caveira/"},
+    {link: "https://aleaplicativos.github.io/fogos/"},
+    {link: "https://aleaplicativos.github.io/melecaelastic/"},
+    {link: "https://aleaplicativos.github.io/impossivel/"},
+    {link: "https://aleaplicativos.github.io/cubomagico/"},
+    {link: "https://aleaplicativos.github.io/portal3d/"},
+    {link: "https://aleaplicativos.github.io/skateflutuante/"},
+    {link: "https://aleaplicativos.github.io/planetas/"},
+    {link: "https://aleaplicativos.github.io/hamburgbox/"},
+    {link: "https://aleaplicativos.github.io/monsterelastic/"},
+    {link: "https://aleaplicativos.github.io/espirallotus/"},
+    {link: "https://aleaplicativos.github.io/leite/"},
+    {link: "https://aleaplicativos.github.io/sliminhas/"},
+    {link: "https://aleaplicativos.github.io/coisa-galat/"},
+    {link: "https://aleaplicativos.github.io/aguacontrole/"},
+    {link: "https://aleaplicativos.github.io/passarinhos/"},
+    {link: "https://aleaplicativos.github.io/elasticcoisas/"},
     ,
     {      
       link: "https://aleaplicativos.github.io/luzesbol/"
@@ -219,13 +165,13 @@ const games = [
     {      
       link: "https://aleaplicativos.github.io/sharingan/"
     },
-     {link: "https://aleaplicativos.github.io/trails/"},
+    {link: "https://aleaplicativos.github.io/trails/"},
     {link: "https://aleaplicativos.github.io/farao/"},
     {link: "https://aleaplicativos.github.io/doggophoto/"},
     {link: "https://aleaplicativos.github.io/memphis-beauty/"},
     {link: "https://aleaplicativos.github.io/sneezethedragon/"},
     {link: "https://aleaplicativos.github.io/kamehameha/"},
-     {link: "https://aleaplicativos.github.io/cat-vs-bol/"},
+    {link: "https://aleaplicativos.github.io/cat-vs-bol/"},
     {link: "https://aleaplicativos.github.io/chillthelion/"},
     {link: "https://aleaplicativos.github.io/CodePen-Home-Synth-From-Hell/"},
     {link: "https://aleaplicativos.github.io/dado/"},
@@ -273,7 +219,8 @@ const games = [
     {link: "https://aleaplicativos.github.io/emoji-spinner/"},
     {link: "https://aleaplicativos.github.io/foguete-voadno/"},
     {link: "https://aleaplicativos.github.io/sapinho-falante/"},
-     {link: "https://aleaplicativos.github.io/bolamagnetica/"},
+    {link: "https://aleaplicativos.github.io/Estrelinha-feliz/"},
+    {link: "https://aleaplicativos.github.io/bolamagnetica/"},
     // Adicione quantos jogos desejar nesta lista
   ];
   
