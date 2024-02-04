@@ -40,131 +40,39 @@ const games = [
     {link: "https://aleaplicativos.github.io/aguacontrole/"},
     {link: "https://aleaplicativos.github.io/passarinhos/"},
     {link: "https://aleaplicativos.github.io/elasticcoisas/"},
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/luzesbol/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/olhos/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/testeeye/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/piano3d/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/batburgueratualizada/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/guitarra-interativa/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/digitalvanita/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/lego/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/drawwithflowers/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/geometriesadiscoball/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/multiimputmaze/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/codevemberpillow/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/codevemberrocket/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/codevembercarrot/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/sweetmemory/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/somanyeyes/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/elastictoggle/"
-    },
-    
-    {      
-      link: "https://aleaplicativos.github.io/xray/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/optimusprime/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/radiohopping/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/skilletswitch/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/Banksy-valentines/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/fish/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/cryon-picker/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/Magic-Wand-Reveal/"
-    },
-    ,
-    {      
-      link: "https://aleaplicativos.github.io/interactive-platypus/"
-    },
-    {      
-      link: "https://aleaplicativos.github.io/interactive-puppy/"
-    },
-    {      
-      link: "https://aleaplicativos.github.io/-billowing-scintillation/"
-    },
-    {      
-      link: "https://aleaplicativos.github.io/pop-sugar/"
-    },
-    {      
-      link: "https://aleaplicativos.github.io/Three.js-Whale-Particles-/"
-    },
-    {      
-      link: "https://aleaplicativos.github.io/rinegan/"
-    },
-    {      
-      link: "https://aleaplicativos.github.io/animals-insects/"
-    },
-    {      
-      link: "https://aleaplicativos.github.io/sharingan/"
-    },
+    {link: "https://aleaplicativos.github.io/luzesbol/"},
+    {link: "https://aleaplicativos.github.io/olhos/"},
+    {link: "https://aleaplicativos.github.io/testeeye/"},
+    {link: "https://aleaplicativos.github.io/piano3d/"},
+    {link: "https://aleaplicativos.github.io/batburgueratualizada/"},
+    {link: "https://aleaplicativos.github.io/guitarra-interativa/"},
+    {link: "https://aleaplicativos.github.io/digitalvanita/"},
+    {link: "https://aleaplicativos.github.io/lego/"},
+    {link: "https://aleaplicativos.github.io/drawwithflowers/"},
+    {link: "https://aleaplicativos.github.io/geometriesadiscoball/"},
+    {link: "https://aleaplicativos.github.io/multiimputmaze/"},
+    {link: "https://aleaplicativos.github.io/codevemberpillow/"},
+    {link: "https://aleaplicativos.github.io/codevemberrocket/"},
+    {link: "https://aleaplicativos.github.io/codevembercarrot/"},
+    {link: "https://aleaplicativos.github.io/sweetmemory/"},
+    {link: "https://aleaplicativos.github.io/somanyeyes/"},
+    {link: "https://aleaplicativos.github.io/elastictoggle/"},
+    {link: "https://aleaplicativos.github.io/xray/"},
+    {link: "https://aleaplicativos.github.io/optimusprime/"},
+    {link: "https://aleaplicativos.github.io/radiohopping/"},
+    {link: "https://aleaplicativos.github.io/skilletswitch/"},
+    {link: "https://aleaplicativos.github.io/Banksy-valentines/"},
+    {link: "https://aleaplicativos.github.io/fish/"},
+    {link: "https://aleaplicativos.github.io/cryon-picker/"},
+    {link: "https://aleaplicativos.github.io/Magic-Wand-Reveal/"},
+    {link: "https://aleaplicativos.github.io/interactive-platypus/"},
+    {link: "https://aleaplicativos.github.io/interactive-puppy/"},
+    {link: "https://aleaplicativos.github.io/-billowing-scintillation/"},
+    {link: "https://aleaplicativos.github.io/pop-sugar/"},
+    {link: "https://aleaplicativos.github.io/Three.js-Whale-Particles-/"},
+    {link: "https://aleaplicativos.github.io/rinegan/"},
+    {link: "https://aleaplicativos.github.io/animals-insects/"},
+    {link: "https://aleaplicativos.github.io/sharingan/"},
     {link: "https://aleaplicativos.github.io/trails/"},
     {link: "https://aleaplicativos.github.io/farao/"},
     {link: "https://aleaplicativos.github.io/doggophoto/"},
@@ -184,7 +92,7 @@ const games = [
     {link: "https://aleaplicativos.github.io/expodingbombs/"},
     {link: "https://aleaplicativos.github.io/Pixel-Paint/"},
     {link: "https://aleaplicativos.github.io/dinorex/"},
-     {link: "https://aleaplicativos.github.io/circ-circ/"},
+    {link: "https://aleaplicativos.github.io/circ-circ/"},
     {link: "https://aleaplicativos.github.io/lapismole/"},
     {link: "https://aleaplicativos.github.io/vampirebat/"},
     {link: "https://aleaplicativos.github.io/orangejuice/"},
@@ -220,6 +128,7 @@ const games = [
     {link: "https://aleaplicativos.github.io/foguete-voadno/"},
     {link: "https://aleaplicativos.github.io/sapinho-falante/"},
     {link: "https://aleaplicativos.github.io/Estrelinha-feliz/"},
+    {link: "https://aleaplicativos.github.io/dogtreinado/"},
     {link: "https://aleaplicativos.github.io/bolamagnetica/"},
     // Adicione quantos jogos desejar nesta lista
   ];
