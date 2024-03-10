@@ -135,6 +135,7 @@ const games = [
     {link: "https://aleaplicativos.github.io/camaleao-3d/"},
     {link: "https://aleaplicativos.github.io/survivalgame/"},
     {link: "https://aleaplicativos.github.io/urso-curiso/"},
+    {link: "https://aleaplicativos.github.io/ursinhocolor/"},
     {link: "https://aleaplicativos.github.io/bolamagnetica/"},
     // Adicione quantos jogos desejar nesta lista
   ];
