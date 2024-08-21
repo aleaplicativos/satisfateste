@@ -143,6 +143,7 @@ const games = [
     {link: "https://aleaplicativos.github.io/bicletacorrendo/"},
     {link: "https://aleaplicativos.github.io/skateinterativo/"},
     {link: "https://aleaplicativos.github.io/interative-clinder-cat/"},
+    {link: "https://aleaplicativos.github.io/litle-monster/"},
     {link: "https://aleaplicativos.github.io/bolamagnetica/"},
     // Adicione quantos jogos desejar nesta lista
   ];
